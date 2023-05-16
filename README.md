@@ -25,24 +25,3 @@
   <img width=15% src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
   <img width=15% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </p>
-
-<h2>Stats</h2>
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=irlirion&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=My GitHub stats for this year" alt="Irlirion's github stats">
-      </td>
-      <td>
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlirion&layout=compact&theme=gruvbox&hide_border=true&card_width=445&langs_count=11&custom_title=Most used languages among all projects" at="Top Langs">
-      </td>
-    </tr>
-    <tr>
-       <td>
-           <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@irlirion&theme=gruvbox&hide_border=true&custom_title=How much time I spent last 7 days for..." alt="Wakatime">
-      </td>
-    </tr>
-</table>
