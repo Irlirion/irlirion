@@ -1,7 +1,6 @@
 # Hi there, I'm Rostislav 👋
 
 
-- 👨‍🎓 I am a student of [KFU](https://kpfu.ru)
 - 🌱 Learning CS, ML, DL and improving my knowledge of Julia and Python
 - 📫 How to reach me: mail me grigorjew.rostislaw@gmail.com
 
