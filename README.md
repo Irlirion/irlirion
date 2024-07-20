@@ -1,26 +1,42 @@
-# Hi there, I'm Rostislav 👋
+# Welcome to Rostislav Grigorev's GitHub! 👋
+
+## About Me
+
+Hi there! I'm **Rostislav Grigorev**, Lead ML Engineer at **Innopolis University**. I specialize in machine learning, data science, and developing cutting-edge solutions for complex problems. My work spans a variety of domains including cheminformatics, deep learning, and web development. 🚀
+
+## What I Do
+
+- **Machine Learning**: Developing and fine-tuning ML models for various applications. 🤖
+- **Cheminformatics**: Leveraging RDKit and Biopython for drug discovery and molecular modeling. 🔬
+- **Web Development**: Building dynamic web applications with React, FastAPI, and Docker. 🌐
+- **Data Science**: Analyzing and interpreting complex datasets with advanced techniques. 📊
 
 
-- 🌱 Learning CS, ML, DL and improving my knowledge of Julia and Python
-- 📫 How to reach me: mail me grigorjew.rostislaw@gmail.com
+## Skills
 
-</p>
+- Python 🐍
+- PyTorch ⚡
+- RDKit 🧪
+- Biopython 🧬
+- React ⚛️
+- FastAPI 🚀
+- SQLAlchemy 🗃️
+- Docker 🐳
+- Ray 🌟
 
+## Contact
 
+Feel free to reach out if you have any questions or just want to connect!
 
-## Languages and tools:
+- **Email**: [irlirion@icloud.com] 📧
+- **LinkedIn**: [Rostislav Grigorev](https://www.linkedin.com/in/rostislav-grigorev-339033230/) 🔗
+- **Website**: [inventum.ai](https://inventum.ai) 🌍
+- **Google Scholar**: [Rostislav Grigorev](https://scholar.google.com/citations?user=CPOsNxUAAAAJ)
 
-<p max_width=450>
-  <img width=15% src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-  <img width=15% src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg"> 
-  <img width=15% src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
-  <img width=15% src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-  <br>
-  <img width=15% src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
-  <img width=15% src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
-  <img width=15% src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
-  <img width=15% src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
-  <br>
-  <img width=15% src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-  <img width=15% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-</p>
+## Contributions
+
+I love collaborating on open-source projects and contributing to the community. If you're interested in working together or need help with a project, don't hesitate to get in touch! 🤝
+
+---
+
+Thank you for visiting my GitHub page! 🌟
